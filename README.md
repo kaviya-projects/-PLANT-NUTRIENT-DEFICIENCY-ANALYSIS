@@ -51,3 +51,10 @@ pip install tensorflow matplotlib numpy
 ## 📌 Tags
 
 `Rice Plant`, `Image Classification`, `Nutrient Deficiency`, `Nitrogen`, `Phosphorus`, `Potassium`, `Deep Learning`, `Agriculture`, `TensorFlow`, `CNN`
+```
+```
+## Output
+<img width="1916" height="1020" alt="Screenshot 2025-07-18 224521" src="https://github.com/user-attachments/assets/aef29c1c-7e4c-4581-9dac-b76be994bc75" />
+<img width="1919" height="850" alt="image" src="https://github.com/user-attachments/assets/1512736f-1c07-4f61-8b2a-df2bd6ae3c1e" />
+<img width="1919" height="850" alt="image" src="https://github.com/user-attachments/assets/0362431b-7723-4a2a-b6d1-227827b77ca9" />
+
