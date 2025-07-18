@@ -1,6 +1,8 @@
 # 🌾  PLANT-NUTRIENT-DEFICIENCY-ANALYSIS - Image Classification using CNN
 
 This project uses deep learning (Convolutional Neural Networks) to identify nutrient deficiency in rice plants based on leaf images. The model classifies whether the rice plant is **deficient in Nitrogen (N)**, **Phosphorus (P)**, **Potassium (K)**, or **Healthy**.
+## 🔗 Live Website  
+[Click here to open the Crop Disease Analysis App](https://crop-disease-analysis-m5ced7d96bfdyqjvvfan2h.streamlit.app/)
 
 ---
 
